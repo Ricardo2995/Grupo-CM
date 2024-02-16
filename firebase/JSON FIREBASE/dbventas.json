@@ -1,0 +1,259 @@
+{
+  "dbalmacen" : {
+    "categoria" : {
+      "PRODUCTOS CONATUL": {
+        "imagen": "https://www.empresascm.com/wp-content/uploads/2020/06/logo-conatul.png",
+        "nombre": "CONATUL",
+        "productos": {
+          "-MMSp8YAYGSzZn1WZpAv": {
+            "descripcion": "ALAMBRE GALVANIZADO DE 20 METROS",
+            "detalle": "CALIBRE : 22, 20, 18, 16",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/alambre-galvanizado.jpg",
+            "nombre": "ALAMBRE GALVANIZADO",
+            "precio": 279,
+            "stock": 100
+          },
+          "-MMSppGbcXvoxvXR0a4l": {
+            "descripcion": "MALLA ELECTROSOLDADA ALTURA 2.5 METROS X 40 METROS",
+            "detalle": "MEDIDA: 66-44,66-66,66-68, 66-10",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/malla-electrosoldada.jpg",
+            "nombre": "MALLA ELECTROSOLDADA",
+            "precio": 12000,
+            "stock": 259
+          }
+        }
+      },
+      "PRODUCTOS CORMAR": {
+        "imagen": "https://www.empresascm.com/wp-content/uploads/2020/06/logo_cormar.png",
+        "nombre": "CORMAR",
+        "productos": {
+          "-MMSqiY8nJhXUeBvt_Oc": {
+            "descripcion": "ALAMBRE GALVANIZADO DE 20 METROS",
+            "detalle": "CALIBRE : 22, 20, 18, 16",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/alambre-galvanizado.jpg",
+            "nombre": "ALAMBRE GALVANIZADO",
+            "precio": 279,
+            "stock": 25
+          },
+          "-MMSrOjbinO1xDgJoyVX": {
+            "descripcion": "MALLA ELECTROSOLDADA ALTURA 2.5 METROS X 40 METROS",
+            "detalle": "MEDIDA: 66-44,66-66,66-68, 66-10",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/malla-electrosoldada.jpg",
+            "nombre": "MALLA ELECTROSOLDADA",
+            "precio": 12000,
+            "stock": 25
+          },
+          "-MMgPIdZpFp2-5e18vQ4": {
+            "descripcion": "VARILLA CORRUGADA PARA CONSTRUCCION DIFERENTES MEDIDAS",
+            "detalle": "PULGADAS: 5/16, 3/8, 1/2, 5/8, 3/4, 1, 1 1/4, 1 1/2",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/varilla.jpg",
+            "nombre": "VARILLA CORRUGADA",
+            "precio": 20000,
+            "stock": 25
+          }
+        }
+      },
+      "PRODUCTOS LESMAR": {
+        "imagen": "https://www.empresascm.com/wp-content/uploads/2020/06/Lesmar.png",
+        "nombre": "Ferreteria LESMAR",
+        "productos": {
+          "-MMSfe6qrDTyu9aOVOWG": {
+            "descripcion": "ALAMBRE GALVANIZADO DE 20 METROS",
+            "detalle": "CALIBRE : 22, 20, 18, 16",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/alambre-galvanizado.jpg",
+            "nombre": "ALAMBRE GALVANIZADO",
+            "precio": 279,
+            "stock": 20
+          },
+          "-MMSoZR9D3CRw9xWmaQP": {
+            "descripcion": "MALLA ELECTROSOLDADA ALTURA 2.5 METROS X 40 METROS",
+            "detalle": "MEDIDA: 66-44,66-66,66-68, 66-10",
+            "imagen": "https://www.empresascm.com/wp-content/uploads/2020/04/malla-electrosoldada.jpg",
+            "nombre": "MALLA ELECTROSOLDADA",
+            "precio": 12000,
+            "stock": 20
+          }
+        }
+      }
+    }
+  },
+  "tiendas" : {
+    "-MMlqM-odpUzaB3hWu2-": {
+      "direccion1": "Avenida 5 de mayo Manzana 002",
+      "direccion2": "Ex Hacienda San Jose, 54785 Teoloyucan, Méx.",
+      "nombretienda": "Sucursal 1 - CONATUL",
+      "ubicacion": "Teoloycan"
+    },
+    "-MMlqg7Ylav9Ebal8tj3": {
+      "direccion1": "Río Cuautitlán, Manzano 19-Lote 2",
+      "direccion2": "Santa Rosa de Lima, 54740 Cuautitlán Izcalli, Méx.",
+      "nombretienda": "Sucursal 2 - CORMAR",
+      "ubicacion": "Cuautitlan Izcalli"
+    },
+    "-MMlqs4_4GDPqeD3CUYN": {
+      "direccion1": "Avenida Lago de Guadalupe, Av. Adolfo Lopez Mateos 18-km 1",
+      "direccion2": "San Miguel Xochimanga, 52927 Méx.",
+      "nombretienda": "Sucursal 3 - Ferreteria LESMAR",
+      "ubicacion": "Ciudad López Mateos"
+    },
+    "-MMlr1PlCkDYK2WOzrBW" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 4",
+      "ubicacion" : ""
+    },
+    "-MMlrEvUow5X5G4OlxOB" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 5",
+      "ubicacion" : ""
+    },
+    "-MMlrQ72BiBzIPVKRxVc" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 6",
+      "ubicacion" : ""
+    },
+    "-MMlrYUNo94tQ9zHs7lg" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 7",
+      "ubicacion" : ""
+    },
+    "-MMlrhDNTmLsqjhZ-vbx" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 8",
+      "ubicacion" : ""
+    },
+    "-MMlrrFq5XAgKZGUAcxv" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 9",
+      "ubicacion" : ""
+    },
+    "-MMls-vL6md17nTuQ9wy" : {
+      "direccion1" : "",
+      "direccion2" : "",
+      "nombretienda" : "Sucursal 10",
+      "ubicacion" : ""
+    }
+  },
+  "ubigeo" : {
+    "departamento" : {
+      "-MMlepOFOxLEb-YKy5Xk" : {
+        "nombredepartamento" : "CDMX"  
+      },
+      "-MMletz9RG7bK_9W2Wd_": {
+        "nombredepartamento": "Estado de mexico"
+      },
+      "-MMlf-iBw5XgMlnxlq34" : {
+        "nombredepartamento" : "Hidalgo"
+      }
+    },
+    "distrito" : {
+      "-MMlfxec5nWjAh8n3RFB" : {
+        "nombredistrito" : "Col. Aguilera",
+        "nombreprovincia" : "Azcapotzalco"
+      },
+      "-MMlg0aKqGPOmb_dnbof": {
+        "nombredistrito": "Col. Aldana",
+        "nombreprovincia": "Azcapotzalco"
+      },
+      "-MMlg2R_e_RkW2nKZiW_": {
+        "nombredistrito": "Col. Industrial Vallejo",
+        "nombreprovincia": "Azcapotzalco"
+      },
+      "-MMlg5dPeYzALQgBZ_gi": {
+        "nombredistrito": "Col. Petrolera",
+        "nombreprovincia": "Azcapotzalco"
+      },
+      "-MMlgAb6u3F01NgQ_3e-": {
+        "nombredistrito": "Col. Jardines del Ajusco",
+        "nombreprovincia": "Tlalpan"
+      },
+      "-MMlgE03UNk324Y0IZUT": {
+        "nombredistrito": "Col. Jardines en La Montaña",
+        "nombreprovincia": "Tlalpan"
+      },
+      "-MMlgHVfky6IkfQ5-k2I": {
+        "nombredistrito": "Col. Juventud Unida",
+        "nombreprovincia": "Tlalpan"
+      },
+      "-MMlgPGv5NOektXTN7Io": {
+        "nombredistrito": "Barrio Acolco",
+        "nombreprovincia": "Teoloyucan"
+      },
+      "-MMlgRgv0eyHbZn0QZeU": {
+        "nombredistrito": "Barrio Cuaxoxoca",
+        "nombreprovincia": "Teoloyucan"
+      },
+      "-MMlgT9-d3kxWDZYR9CW": {
+        "nombredistrito": "Misiones Teoloyucan",
+        "nombreprovincia": "Teoloyucan"
+      },
+      "-MMlgYWMu7twsxmC9AT8": {
+        "nombredistrito": "Cuautitlan centro",
+        "nombreprovincia": "Cuautitlan"
+      },
+      "-MMlg_rvguCPXDsAsASL": {
+        "nombredistrito": "Cebadales primera seccion",
+        "nombreprovincia": "Cuautitlan"
+      },
+      "-MMlgf56JrNaj4_nWdDv": {
+        "nombredistrito": "Ejidos de Guadalupe",
+        "nombreprovincia": "Cuautitlan"
+      },
+      "-MMlghOfdlhkPi0XK-8Z": {
+        "nombredistrito": "16 de Enero (El Tesoro)",
+        "nombreprovincia": "Tula de Allende"
+      },
+      "-MMlgj7pEe4IsWoXiegv": {
+        "nombredistrito": "Alvarado",
+        "nombreprovincia": "Tula de Allende"
+      },
+      "-MMlgmIoPkSG_dCHLRYe": {
+        "nombredistrito": "Barrio Alto",
+        "nombreprovincia": "Tula de Allende"
+      },
+      "-MMlgoX1BLY43mz129wi": {
+        "nombredistrito": "Atengo",
+        "nombreprovincia": "Tepeji del rio"
+      },
+      "-MMlgr87zFRgOgjCDkMc": {
+        "nombredistrito": "Caltego",
+        "nombreprovincia": "Tepeji del rio"
+      },
+      "-MMlgsm-k-J2y2sYcsFr": {
+        "nombredistrito": "Caracol",
+        "nombreprovincia": "Tepeji del rio"
+      }
+    },
+    "provincia" : {
+      "-MMlfEDruHjt3HTUrpcb" : {
+        "nombredepartamento" : "CDMX",
+        "nombreprovincia" : "Azcapotzalco"
+      },
+      "-MMlfOR9avi4yu5xTAS9" : {
+        "nombredepartamento" : "CDMX",
+        "nombreprovincia" : "Tlalpan"
+      },
+      "-MMlfV_s_iEhS9piiKyO" : {
+        "nombredepartamento" : "Estado de mexico",
+        "nombreprovincia" : "Teoloyucan"
+      },
+      "-MMlfZ6OM3x-Sw2PnAx1" : {
+        "nombredepartamento" : "Estado de mexico",
+        "nombreprovincia" : "Cuautitlan"
+      },
+      "-MMlfjNbMGJHh2cGxWw2" : {
+        "nombredepartamento" : "Hidalgo",
+        "nombreprovincia" : "Tula de Allende"
+      },
+      "-MMlfkVkcDGaU6qWNS0_" : {
+        "nombredepartamento" : "Hidalgo",
+        "nombreprovincia" : "Tepeji del rio"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "04v/9dEntv2MrkqeOTAIsH8XJp08XfC5mWahEVs2SltfZOoRdlP8eYv4x4NJpi+hE9IQYH49YcA6itdjhFfxEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riich\\OneDrive\\Escritorio\\GRUPO_CM\\GRUPO_CM\\GRUPO_CM\\GRUPO_CM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\riich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\riich\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\riich\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\riich\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\riich\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
